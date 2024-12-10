@@ -1,4 +1,6 @@
-##Supermarket Sales Data Analysis
+##Supermarket Sales Data Analysis#
+
+
 Overview
 This project focuses on Exploratory Data Analysis (EDA) of a supermarket sales dataset. The analysis aims to uncover insights about customer behavior, product sales, and supermarket performance. By visualizing and interpreting key features such as customer type, product line, sales by branch, and ratings, we gain valuable insights into how the supermarket operates and which factors influence sales performance.
 
